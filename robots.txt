@@ -1,0 +1,14 @@
+﻿User-agent: *
+Disallow: /bin/
+Disallow: /Assetts/
+Disallow: /admin/
+Disallow: /plugins/
+Disallow: /App_Data/
+Disallow: /Models/
+Disallow: /Content/
+Disallow: /Scripts/
+Disallow: /DAL/
+Disallow: /Core/
+Allow: /
+
+Sitemap: http://www.ashcraftphoto.net/sitemap.xml
