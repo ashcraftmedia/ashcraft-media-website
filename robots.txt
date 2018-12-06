@@ -7,8 +7,9 @@ Disallow: /App_Data/
 Disallow: /Models/
 Disallow: /Content/
 Disallow: /Scripts/
-Disallow: /DAL/
-Disallow: /Core/
+Disallow: /fonts/
+Disallow: /js/
+Disallow: /sass/
 Allow: /
 
-Sitemap: http://www.ashcraftphoto.net/sitemap.xml
+Sitemap: https://www.ashcraft.media/sitemap.xml
